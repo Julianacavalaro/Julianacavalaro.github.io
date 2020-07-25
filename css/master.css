@@ -15,7 +15,7 @@ a {
   }
 
   body {
-      background-color:#F0F0F0;
+      background-color: lightblue;
       color: black;
     /* set the background color here */
     /* set the text color to black here */
@@ -30,12 +30,12 @@ a {
    }
   footer {
     margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 
   h1 {
-    margin-bottom: 0.5rem;
-    margin-top: 3rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
    }
 
   h2 {
@@ -61,7 +61,7 @@ a {
   }
 
   hr {
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     margin-top: 3rem;
   }
 
@@ -71,3 +71,16 @@ a {
     margin: 0 auto;
     text-align: left;
   }
+  .col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+    background-color: white;
+    margin-bottom: 0rem;
+  }
+  .bloco-imagens-texto {
+   background-color: #eee;
+   background-position: center;
+ }
+
+
